@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97746970824",
+    "project_id": "mavent-e0a3d",
+    "storage_bucket": "mavent-e0a3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97746970824:android:1c5d79b81edc545e8cddfd",
+        "android_client_info": {
+          "package_name": "com.example.mavent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBog37mJ07oVSpw4QN2xBIVn_LT3S1JNJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
